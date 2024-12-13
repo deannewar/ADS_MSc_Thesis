@@ -1,3 +1,7 @@
+This repo presents the thesis for the Master Applied Data Science at Utrecht University titled: _Detecting and Classifying Online Radicalisation Phases:
+A Study of Dutch Social Media Discourse_. In this repo the thesis itself can be found alongside the code that was used to train the classifier and to perform the analysis on the different cases. Since this research used sensitive data, it will not be presented in this repo. 
+
+
 # Abstract
 The increase of social media platforms such as Twitter and Telegram has
 transformed communication, enhanced free speech, but also facilitated
